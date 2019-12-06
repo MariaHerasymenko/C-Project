@@ -1,1 +1,1 @@
-# Gerasimenko_C_Project
+# Gerasimenko C Project
